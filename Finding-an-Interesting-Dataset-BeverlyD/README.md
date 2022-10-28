@@ -30,9 +30,9 @@ rating: a rating of the cereals (Possibly from Consumer Reports?)
 
 Questions:
 1) Which cereals have more than 6 grams of sugar per serving?
-2) Which cereals have the most calories?
-3) What cereals are served hot?
-4) Which cereals have the most fat?
+2) Which brand out of the two (Kellogs & General Mills) has the most average gram of sugar in the cereals?
+3) Is there a relationship between sodium and sugar levels in cereal?
+4) Which cereal has the most grams of complex carbohydrates and which one has the least?
 5) Which cereals have the most fiber?
 6) Which cereals have the least sugar?
 7) Which cereals have the most protein?
