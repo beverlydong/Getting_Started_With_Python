@@ -33,9 +33,10 @@ Questions:
 2) Which brand out of the two (Kellogs & General Mills) has the most average gram of sugar in the cereals?
 3) Is there a relationship between sodium and sugar levels in cereal?
 4) Which cereal has the most grams of complex carbohydrates and which one has the least?
-5) Compare the lowest rated cereal and the highest rated one.
-6) Does the amount of sugar in cereal affect its rating?
-7) Do fiber amount and sugar amount per cereal have an inverse relationship?
-8) What are each brand's highest rated cereal?
-9) Which manufacture has the best ratings?
-10) Can display shelf level affect rating?
+5) Which manufacturer has the highest calories?
+6) Compare the lowest rated cereal and the highest rated one.
+7) What are the top 3 brands' highest rated cereal?
+8) Can we predict ratings in relation to sugar?
+9) Can display shelf level affect rating? 
+10) Is there a correlation between fat and fiber? 
+
